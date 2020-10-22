@@ -1,8 +1,7 @@
 ### Hi there, I'm Miquel - aka KumaVolt 👋
 
 - 🔭 I’m currently working on improving my code style.
-- 🌱 I’m currently learning Rust.
-- 👯 I’m looking to collaborate on more Open Source projects in 2020
+- 🛣️ On a journey to learn Rust.
 
 ### Connect with me:
 
