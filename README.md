@@ -1,7 +1,10 @@
 ### Hi there, I'm Miquel - aka KumaVolt 👋
 
-- 🔭 I’m currently working on improving my code style.
-- 🛣️ On a journey to learn Rust.
+- 💼 IT Application Developer at [Brightness Group](https://www.linkedin.com/in/miquel-de-la-fuente/) in the Netherlands.
+- 🔭 Currently building open-source tools in Rust:
+  - [GitChrono](https://github.com/KumaVolt/GitChrono): a fast, native Git client with a colorful commit graph and line-level staging. [gitchrono.com](https://gitchrono.com)
+  - [Encheo](https://github.com/KumaVolt/encheo): an open-source media player for Windows, Linux, macOS and Android, with Plex support.
+- 🌐 More about me on [kumavolt.dev](https://kumavolt.dev).
 
 ### Connect with me:
 
@@ -35,7 +38,7 @@
 
 [youtube]: https://www.youtube.com/channel/UCqd9qypgAUJcCKxurFsCKmA
 [instagram]: https://instagram.com/KumaVolt
-[linkedin]: https://linkedin.com/in/miquel-de-la-fuente-6893ba105
+[linkedin]: https://www.linkedin.com/in/miquel-de-la-fuente/
 
 <!--
 **KumaVolt/KumaVolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
